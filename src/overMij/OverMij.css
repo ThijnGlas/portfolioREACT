@@ -1,0 +1,13 @@
+.overmij__tekst-foto{
+    display: flex;
+    justify-content: space-around;
+}
+
+.overMij__tekst{
+    display: flex;
+    flex-direction: column;
+}
+
+.overMij__h2{
+    font-size: 5rem;
+}

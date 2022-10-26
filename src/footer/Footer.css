@@ -1,0 +1,18 @@
+.footer{
+    background: #CC6666;
+    display: flex;
+    color: #eee;
+    justify-content: space-between;
+    padding: 5rem;
+    font-size: 2rem;
+}
+
+.info{
+    text-decoration: none;
+}
+
+.socials{
+    font-size: 5rem;
+    display: flex;
+    text-decoration: none;
+}
